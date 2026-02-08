@@ -5,7 +5,7 @@ high-paying roles, in-demand skills, and the relationship between skills and sal
 
 The analysis follows a structured, real-world SQL workflow using job postings data.
 
----
+
 
 ## 📊 Business Questions Answered
 
@@ -13,7 +13,7 @@ The analysis follows a structured, real-world SQL workflow using job postings da
 2. Which **skills are most in demand** for Data Analyst roles?
 3. What skills are associated with **higher salaries**?
 
----
+
 
 ## 🛠 Tools & Technologies
 
@@ -22,12 +22,9 @@ The analysis follows a structured, real-world SQL workflow using job postings da
 - Joins, Aggregations, Filtering
 - Git & GitHub for version control
 
----
-
-## 📁 Project Structure
 
 
----
+
 
 ## 🧠 SQL Concepts Demonstrated
 
@@ -114,6 +111,9 @@ SQL is leading with a bold count of 8.
 Python follows closely with a bold count of 7.
 Tableau is also highly sought after, with a bold count of 6. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 Top Paying Skills Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results
+<img width="2728" height="1431" alt="1_top_paying_roles" src="https://github.com/user-attachments/assets/6d8fd420-ad15-4a4f-8e0b-2d7be2c17dbc" />
+
+
 
 ##3. In-Demand Skills for Data Analysts
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
