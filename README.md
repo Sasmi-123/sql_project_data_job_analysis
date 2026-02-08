@@ -51,7 +51,7 @@ Git & GitHub: Essential for version control and sharing my SQL scripts and analy
 The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
-##1. Top Paying Data Analyst Jobs
+**1. Top Paying Data Analyst Jobs**
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 SELECT	
 	job_id,
@@ -78,7 +78,7 @@ Diverse Employers: Companies like SmartAsset, Meta, and AT&T are among those off
 Job Title Variety: There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 Top Paying Roles Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results
 
-##2. Skills for Top Paying Jobs
+**##2. Skills for Top Paying Jobs**
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
 WITH top_paying_jobs AS (
     SELECT	
